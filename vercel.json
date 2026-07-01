@@ -13,11 +13,11 @@
       "use": "@vercel/static"
     },
     {
-      "src": "profile/**",
+      "src": "assests/**",
       "use": "@vercel/static"
     },
     {
-      "src": "public/**",
+      "src": "assests/**",
       "use": "@vercel/static"
     }
   ]
